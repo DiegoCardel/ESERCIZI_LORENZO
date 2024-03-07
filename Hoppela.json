@@ -1,0 +1,49 @@
+import json 
+
+{
+    "Nome": "Diego",
+    "Cognome": "Cardellini",
+    "eta": 27,
+    "hobby": [
+        ["coding","python","htmls","javascript","json"]
+        "havefun",
+        "get_better",
+        10
+    ],
+    "nemici": [
+        "dannati_fanesi",
+        "ascolani"
+    ],
+    "amici": [
+        "Alessio",
+        "Jan"
+    ],
+    "conto": 25000,
+    "religione": "menopossibile",
+    "proprietà": {
+        "cellulare": {
+            "modello": "samsung s8",
+            "numero_cellulare": 3485642151
+        },
+        "luogo_nascita": {
+            "nazione": "Italia",
+            "regione": "marche",
+            "ospedale": "salesi",
+            "anno di nascita": 1996,
+            "celibe": true,
+            "figli": null,
+            "residenza":"Polverigi, Via Rustico 26",
+            "codice_fiscale":"CRDDGI96H29A271E"
+        },
+        "caratteristiche_fisiche":[
+            {"tipo":"pelle","colore":"white","tipologia":"ricci"},
+            {"tipo":"capelli","colore":"nero"},
+            {"tipo":"altezza","metri":1.70}
+            ],
+        "macchina": [{"marca" :"bmw","modello":"a1"},
+            {"cilindrata": 2000,"alimentazione":"diesel","anno": 2010}]
+        }
+    }
+
+
+Caratteristiche_fisiche[1].tipo
